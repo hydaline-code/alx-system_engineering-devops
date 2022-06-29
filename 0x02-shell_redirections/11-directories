@@ -1,2 +1,0 @@
-#!/bin/ba
-find . -type d -not -name '.' | wc -lsh
