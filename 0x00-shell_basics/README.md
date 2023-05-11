@@ -8,3 +8,4 @@ Display current directory contents:Long format,with user and group IDs displayed
 Create a script that creates a directory named my first directory in the /tmp/ directory
 Move the file
 Delete the file betty
+Delete the directory my first directory that is in the /tmp directory.
