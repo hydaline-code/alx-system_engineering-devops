@@ -10,3 +10,4 @@ Move the file
 Delete the file betty
 Delete the directory my first directory that is in the /tmp directory.
 Write a script that changes the working directory to the previous one.
+Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden)
