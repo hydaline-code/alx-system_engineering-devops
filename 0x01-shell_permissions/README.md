@@ -3,4 +3,5 @@ task2: whoiam
 Print all the groups the user is in
 Change the owner 
 Empty a file 
+ adds execute permission to the owner of the file 
 
