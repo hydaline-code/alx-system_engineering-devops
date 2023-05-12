@@ -2,4 +2,5 @@ This is Shell permissions
 task2: whoiam
 Print all the groups the user is in
 Change the owner 
+Empty a file 
 
