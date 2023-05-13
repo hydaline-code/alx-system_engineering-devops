@@ -3,5 +3,6 @@ task2: whoiam
 Print all the groups the user is in
 Change the owner 
 Empty a file 
- adds execute permission to the owner of the file 
+Script to  adds execute permission to the owner of the file 
+Write a script that adds execute permission to the owner and the group owner, and read permission to other
 
