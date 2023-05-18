@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "catch" | tr -d cut
+echo "catch" | tr -d 'Cc'
