@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "catch" | rev
+echo "catch" | tr -d cut
