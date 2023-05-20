@@ -1,2 +1,2 @@
 #!/bin/bash
-dc -e "BREATH LOVE ^ p" 
+echo $((BREATH ^ LOVE)) 
